@@ -1,0 +1,11 @@
+Metric,My Network (BVI),Panama (small)
+Nodes,5000.0,5000.0
+Edges,8996.0,6628.0
+Edge/node ratio,1.8,1.33
+Average degree,3.6,2.65
+Max degree,353.0,250.0
+Weight mean,3.0561,2.7315
+Total MST weight,9384.9608,10993.7279
+Average MST edge weight,1.8774,2.1992
+Kruskal time (s),0.0051,0.0039
+Prim time (s),0.0045,0.0037

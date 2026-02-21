@@ -1,0 +1,20 @@
+Trial,|S|,Crossing edges,Min weight,Min edge in MST?
+1,3119,3190,1.0063,YES
+2,848,1636,1.0063,YES
+3,2556,3276,1.0006,YES
+4,3350,3112,1.0024,YES
+5,3207,3252,1.0151,YES
+6,1687,3165,1.0063,YES
+7,2723,3342,1.0063,YES
+8,3468,3188,1.0006,YES
+9,4413,1523,1.0006,YES
+10,2861,3264,1.0006,YES
+
+Jurisdictional cut,BVI (2639 nodes) vs PMA (830 nodes)
+Crossing edges,2884
+Min edge,"(237, 0)"
+Weight,2.0001
+Relationship type,intermediary_of
+Endpoint A,Finest Peak Worldwide Limited
+Endpoint B,"UBS AG, Singapore"
+In MST?,YES

@@ -1,0 +1,5 @@
+Metric,Without Path Compression,With Path Compression,With Both Optimizations
+Total find() calls,13256.0,13256.0,13256.0
+Average path length,39.2598,1.0315,0.4995
+Max tree height,249.0,21.0,3.0
+Total time (s),0.027,0.004,0.0039
